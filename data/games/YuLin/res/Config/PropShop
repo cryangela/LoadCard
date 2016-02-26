@@ -1,0 +1,4 @@
+<Shop>
+<Goods id = "120" name="记牌器（3）" display="icon3.png" price="1.0" description="可查看所有玩家已打出的牌" exchange = "100" sms = "YX-SHLX-2%d001" ></Goods>
+<Goods id = "121" name="记牌器（7）" display="icon7.png" price="2.0"  description="可查看所有玩家已打出的牌" sms = "YX-SHLX-2%d002" ></Goods>
+</Shop>

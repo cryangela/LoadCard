@@ -1,0 +1,12 @@
+<Task>
+<Item title="任意房间 玩1局" display="renwu_0006_meirikuang" reward ="100" description="" exchange = "0" ></Item>
+<Item title="任意房间 玩3局" display="renwu_0006_meirikuang" reward ="100" description="" exchange = "0" ></Item>
+<Item title="任意房间 玩5局" display="renwu_0006_meirikuang" reward ="100" description="" exchange = "0" ></Item>
+<Item title="任意房间 玩10局" display="renwu_0006_meirikuang" reward ="200" description="" exchange = "0" ></Item>
+<Item title="任意房间 玩15局" display="renwu_0006_meirikuang" reward ="200" description="" exchange = "0" ></Item>
+<Item title="任意房间 玩20局" display="renwu_0006_meirikuang" reward ="200" description="" exchange = "0" ></Item>
+<Item title="任意房间 首胜" display="renwu_0005_tiaozhankuang" reward ="100" description="" exchange = "0" ></Item>
+<Item title="任意房间 连续胜利3局" display="renwu_0005_tiaozhankuang" reward ="100" description="" exchange = "0" ></Item>
+<Item title="任意房间 连续胜利5局" display="renwu_0005_tiaozhankuang" reward ="500" description="" exchange = "0" ></Item>
+<Item title="任意房间 连续胜利10局" display="renwu_0005_tiaozhankuang" reward ="1000" description="" exchange = "0" ></Item>
+</Task>

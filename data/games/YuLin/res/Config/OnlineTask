@@ -1,0 +1,8 @@
+<Task>
+<Item title="在线打牌累计3分钟" display="renwu_0001_lianxuju" reward ="100" sec="180" exchange = "20" ></Item>
+<Item title="在线打牌累计10分钟" display="renwu_0001_lianxuju" reward ="200" sec="600" exchange = "0" ></Item>
+<Item title="在线打牌累计20分钟" display="renwu_0001_lianxuju" reward ="500" sec="1200" exchange = "20" ></Item>
+<Item title="在线打牌累计30分钟" display="renwu_0001_lianxuju" reward ="1000" sec="1800" exchange = "20" ></Item>
+<Item title="在线打牌累计1小时" display="renwu_0001_lianxuju" reward ="1500" sec="3600" exchange = "40" ></Item>
+<Item title="在线打牌累计2小时" display="renwu_0001_lianxuju" reward ="3000" sec="7200" exchange = "60" ></Item>
+</Task>

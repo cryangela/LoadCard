@@ -1,0 +1,8 @@
+<Shop>
+<Goods id="1" display="youxibisc_0001_item.png" name="游戏币50000" description="游戏币50000" price="5.0" sms = "YX-SHLX-2%d005"></Goods>
+<Goods id="2" display="youxibisc_0008_item2.png" name="游戏币120000" description="游戏币120000" price="10.0" sms = "YX-SHLX-2%d010" ></Goods>
+<Goods id="3" display="youxibisc_0011_item3.png" name="游戏币250000" description="游戏币250000" price="20.0" sms = "YX-SHLX-2%d020" ></Goods>
+<Goods id="4" display="youxibisc_0014_item4.png" name="游戏币600000" description="游戏币600000" price="50.0" ></Goods>
+<Goods id="5" display="youxibisc_0017_item5.png" name="游戏币1200000" description="游戏币1200000" price="100.0" ></Goods>
+<Goods id="6" display="youxibisc_0020_item6.png" name="游戏币3200000" description="游戏币3200000" price="300.0" ></Goods>
+</Shop>

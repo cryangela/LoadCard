@@ -1,0 +1,8 @@
+<Shop>
+<Goods id = "1" name="1元话费充值卡" display="shangcheng_00010_10huafei.png" price="99" ></Goods>
+<Goods id = "2" name="10元话费充值卡" display="shangcheng_0005_10huafei.png" price="999" ></Goods>
+<Goods id = "3" name="限量扑克BEE" display="shangcheng_0002_puke.png" price="2888" ></Goods>
+<Goods id = "4" name="飞利浦剃须刀" display="shangcheng_0004_tixudao.png" price="48888" ></Goods>
+<Goods id = "5" name="平板电脑（小米）" display="shangcheng_0003_heishouji.png" price="148888" ></Goods>
+<Goods id = "6" name="iPhone6s" display="shangcheng_0001_iphone.png" price="528888" ></Goods>
+</Shop>

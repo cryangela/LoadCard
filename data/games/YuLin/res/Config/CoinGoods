@@ -1,0 +1,8 @@
+<Coin>
+<Goods id = "1" name="游戏币50000" display="shangcheng_00010_10huafei.png" price="5" ></Goods>
+<Goods id = "2" name="游戏币120000" display="shangcheng_0005_10huafei.png" price="10" ></Goods>
+<Goods id = "3" name="游戏币230000" display="shangcheng_0002_puke.png" price="20" ></Goods>
+<Goods id = "4" name="游戏币600000" display="shangcheng_0004_tixudao.png" price="50" ></Goods>
+<Goods id = "5" name="游戏币1300000" display="shangcheng_0003_heishouji.png" price="100" ></Goods>
+<Goods id = "6" name="游戏币3200000" display="shangcheng_0001_iphone.png" price="300" ></Goods>
+</Coin>
